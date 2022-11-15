@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harvinshibu
-- 👀 I’m interested in Android /iOS Application Development.
-- 😉 Also intersted in @anushagif
+- 👀 I’m interested in Android /iOS Application Development.<!--- - 😉 Also intersted in @anushagif --->
 - 🌱 I’m currently learning SwiftUI & Flutter
 - 💞️ Ask me anything about App Development.
 - 📫 You can reach me on harvinshibu47@gmail.com
