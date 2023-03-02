@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harvinshibu
 - 👀 I’m interested in Android / iOS Application Development.
-- 🌱 I’m currently learning SwiftUI & Flutter
 - 💞️ Ask me anything about App Development.
 - 📫 You can reach me on:
 
